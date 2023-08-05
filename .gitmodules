@@ -1,0 +1,15 @@
+[submodule "urlshortener"]
+	path = urlshortener
+	url = https://github.com/cgyinthehouse/fcc-urlshortener
+[submodule "exercisetracker"]
+	path = exercisetracker
+	url = https://github.com/cgyinthehouse/fcc-exercise_tracker
+[submodule "headerparser"]
+	path = headerparser
+	url = https://github.com/cgyinthehouse/fcc-headerparser
+[submodule "timestamp"]
+	path = timestamp
+	url = https://github.com/cgyinthehouse/fcc-timestamp
+[submodule "filemetadata"]
+	path = filemetadata
+	url = https://github.com/cgyinthehouse/fcc-filemetadata
